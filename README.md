@@ -6,7 +6,7 @@ makes it much easier to configure applications and relate components to each oth
 
 Spring operation principle is fully based on DI/IoC patterns.
 
-*Stack used in this module: Java 8, Maven, Spring, Jdbc.*
+*Stack used in this module: Java 8, Maven, Spring, Jdbc, JUnit.*
 
 ## *Exercise 00*
 
@@ -21,4 +21,4 @@ The connection to the postgresql database is made using the HikariCP driver.
 
 ## *Exercise 02*
 
-In progress...
+Now, I have to configure Spring-application configuration mechanisms using annotations. Service application with Unit tests here.
